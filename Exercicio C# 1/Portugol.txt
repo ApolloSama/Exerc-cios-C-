@@ -1,0 +1,26 @@
+programa {   
+            inteiro idade = int.Parse(Console.ReadLine());
+            
+            funcao inicio (){
+                
+            escreval("Categorizador de nadadores \n");
+
+            escreval("Digite a sua idade: ");
+
+            se (idade >= 18){
+                escreva("VocÃƒÂª estÃƒÂ¡ na categoria SÃƒÂªnior");
+            }
+            se (idade <= 17 && idade > 13){
+                escreva("VocÃƒÂª estÃƒÂ¡ na categoria Juvenil B");
+            }
+            se (idade <= 13 && idade > 10){
+                escreva("VocÃƒÂª estÃƒÂ¡ na categoria Juvenil A");
+            }
+            se (idade <= 10 && idade > 7){
+                escreva("VocÃƒÂª estÃƒÂ¡ na categoria Infantil B");
+            }
+            se (idade <= 7){
+                escreva("VocÃƒÂª estÃƒÂ¡ na categoria Infantil A");
+            }
+        }
+    }

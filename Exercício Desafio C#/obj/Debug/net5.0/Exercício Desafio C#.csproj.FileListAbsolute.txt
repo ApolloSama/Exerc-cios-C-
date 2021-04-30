@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\bin\Debug\net5.0\Exercício Desafio C#.exe
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\bin\Debug\net5.0\Exercício Desafio C#.deps.json
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\bin\Debug\net5.0\Exercício Desafio C#.runtimeconfig.json
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\bin\Debug\net5.0\Exercício Desafio C#.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\bin\Debug\net5.0\Exercício Desafio C#.dll
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\bin\Debug\net5.0\ref\Exercício Desafio C#.dll
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\bin\Debug\net5.0\Exercício Desafio C#.pdb
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\obj\Debug\net5.0\Exercício Desafio C#.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\obj\Debug\net5.0\Exercício Desafio C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\obj\Debug\net5.0\Exercício Desafio C#.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\obj\Debug\net5.0\Exercício Desafio C#.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\obj\Debug\net5.0\Exercício Desafio C#.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\obj\Debug\net5.0\Exercício Desafio C#.dll
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\obj\Debug\net5.0\ref\Exercício Desafio C#.dll
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\obj\Debug\net5.0\Exercício Desafio C#.pdb
+C:\Users\Pedro\Desktop\C#\Exercício Desafio C#\obj\Debug\net5.0\Exercício Desafio C#.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+programa {
+            inteiro anoCalendario = DateTime.Now.Year;
+            
+            inteiro anoNascimento = int.Parse(Console.ReadLine());
+
+            inteiro idade = anoCalendario - anoNascimento;
+
+            funcao inicio(){
+
+            escreval("Descobridor de idades 2000 \n");
+
+            escreval("Em que ano você nasceu?");
+            
+            escreval("Você tem: " + idade + " anos de idade");
+            }
+
+    }
